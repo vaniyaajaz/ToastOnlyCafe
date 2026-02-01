@@ -1,0 +1,216 @@
+#landing {
+    background-image: url("toast.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    font-family: "Sirivennela", sans-serif;
+    font-size: 25px;
+}
+
+#headings {
+    background-color: rgb(171, 123, 21);
+    border-color: rgb(171, 123, 21);
+    border: 10px;
+    padding: 1px;
+    color: antiquewhite;
+    size: 100px;
+    margin-right: 70%;
+    margin-left: 0%;
+    padding-left: 20px !important;
+    font-family: "Sirivennela", sans-serif;
+}
+
+#links {
+    margin-top: 1.5%;
+    padding-top: 0%;
+    border: 10px;
+    height: 60px;
+    background-color: bisque;
+    margin-bottom: 0%;
+    color: rgb(171, 123, 21);
+    font-size: 40px;
+    font-family: "Sirivennela", sans-serif;
+    margin-right: 80%;
+    line-height: 20px;
+    padding-left: 20px;
+}
+
+#links a {
+    color: rgb(188, 131, 55);
+    text-decoration: dotted underline;
+}
+
+img {
+    height: 40vw;
+    width: auto;
+}
+
+#cards {
+    display: flex;
+    gap: 20px
+}
+
+.titles {
+    font-size: 25px;
+    font-style: oblique;
+    margin-bottom: 0%;
+}
+
+.description {
+    margin-top: 0%;
+    padding-top: 0%;
+    font-size: 15px;
+    font-style: oblique;
+    margin-bottom: 0%;
+}
+
+.price {
+    margin-top: 0%;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+#card {
+    background-color: rgb(171, 123, 21);
+    color: bisque;
+}
+
+#link a {
+    color: bisque;
+}
+
+#Howtoeat {
+    background-image: url("how to eat toast.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-color: rgb(171, 123, 21);
+    color: rgb(171, 123, 21);
+}
+
+#fromeating a {
+    display: inline-block;
+    margin-bottom: 4px;
+    color: rgb(171, 123, 21);
+    background-color: bisque;
+    margin-right: 20%;
+    padding: 5px;
+    margin-left: 30%;
+}
+
+.stepsofeating {
+    background-color: bisque;
+    margin-right: 32%;
+    height: 20px;
+    padding: 10px;
+    padding-top: 5px !important;
+    margin-left: 30%;
+    font-size: 20px;
+}
+
+#Howto {
+    background-color: bisque;
+    margin-right: 32%;
+    padding: 10px;
+    height: 30px;
+    padding-top: 5px !important;
+    margin-left: 30%;
+    padding-left: 120px !important;
+    padding-right: 120px !important;
+    font-size: 30px;
+    margin-top: 15px;
+}
+
+form {
+    margin: 1%;
+    background-color: bisque;
+    padding: 10px;
+    margin-right: 70%;
+    margin-top: 0%;
+    width: 290px;
+}
+
+.normal {
+    height: 20px;
+    color: bisque;
+    border-color: rgb(139, 97, 8);
+    border-width: 2px;
+    border-style: outset;
+    width: 282px;
+    background-color: rgb(171, 123, 21);
+}
+
+#specialrequest {
+    height: 100px;
+    margin-bottom: 3%;
+    color: bisque;
+    background-color: rgb(171, 123, 21);
+    vertical-align: top;
+    align-content: start;
+    border-color: rgb(139, 97, 8);
+    border-width: 2px;
+    border-style: outset;
+    width: 280px;
+}
+
+.labels {
+    display: inline-block;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    font-weight: bolder;
+}
+
+select {
+    color: bisque;
+    background-color: rgb(171, 123, 21);
+    height: 30px;
+    width: 288px;
+    border-color: rgb(139, 97, 8);
+    border-width: 2px;
+    border-style: outset;
+}
+
+#labelforform {
+    display: inline-block;
+    margin-left: 7% !important;
+    margin: 0%;
+    font-size: larger;
+    font-weight: bold;
+    padding: 5px;
+    color: rgb(171, 123, 21);
+    background-color: bisque;
+    border-color: rgb(171, 123, 21);
+    border-width: 3px;
+    border-style: solid;
+}
+
+input[type="time"]::-webkit-calendar-picker-indicator {
+    filter: invert(90%) sepia(18%) saturate(307%) hue-rotate(345deg) brightness(101%) contrast(105%);
+}
+
+#submitbutton {
+    background-color: rgb(171, 123, 21);
+    color: bisque;
+    border-color: rgb(139, 97, 8);
+    border-width: 2px;
+    border-style: outset;
+    width: 288px;
+}
+
+#submitbutton:active {
+    background-color: rgb(209, 168, 81);
+    color: rgb(119, 65, 0);
+}
+
+textarea::-webkit-scrollbar {
+    width: 5px;
+}
+
+textarea::-webkit-scrollbar-track {
+    background: rgb(182, 151, 84);
+}
+
+textarea::-webkit-scrollbar-thumb {
+    background-color: rgb(139, 97, 8);
+    border-radius: 10px;
+}
