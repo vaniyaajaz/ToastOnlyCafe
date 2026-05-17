@@ -90,11 +90,11 @@ img {
 
 #link{
     margin-top: 15px;
+    display: flex;
+    flex-direction: column;
 }
 
 #link a {
-    display: flex;
-    flex-direction: column;
     color: #ffd8a9;
 }
 
