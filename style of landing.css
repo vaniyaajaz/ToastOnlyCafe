@@ -88,7 +88,13 @@ img {
     color: #ffd8a9;
 }
 
+#link{
+    margin-top: 15px;
+}
+
 #link a {
+    display: flex;
+    flex-direction: column;
     color: #ffd8a9;
 }
 
