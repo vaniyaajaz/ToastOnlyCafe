@@ -329,7 +329,7 @@ textarea:focus{
         gap: 5px;
     }
     #Howtoeat {
-        min-height: 105dvh !important;
+        min-height: 120dvh !important;
         height: max-content;
     }
     
@@ -370,7 +370,7 @@ textarea:focus{
         left: 6%;
     }
     #labelforform{
-        left: 18%;
-        top: 65%;
+        left: 16%;
+        top: 70%;
     }
 }
