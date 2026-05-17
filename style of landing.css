@@ -38,9 +38,11 @@
     margin-right: 80%;
     line-height: 20px;
     padding-left: 20px;
+    height: fit-content;
 }
 
 #links a {
+    margin-top: 0px;
     color: rgb(171, 123, 21);
     text-decoration: dotted underline;
     font-size: 2rem;
