@@ -366,11 +366,11 @@ textarea:focus{
         margin-left: 0%;
     }
     form {
-        top: 65%;
+        top: 75%;
         left: 6%;
     }
     #labelforform{
-        left: 20%;
-        top: 61.6%;
+        left: 18%;
+        top: 65%;
     }
 }
